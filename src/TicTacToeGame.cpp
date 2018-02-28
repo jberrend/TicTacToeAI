@@ -1,5 +1,6 @@
 #include "TicTacToeGame.hpp"
 #include <iostream>
+#include <math.h>
 
 tic_tac_toe_game::tic_tac_toe_game() {
 	status = in_progress;

@@ -1,3 +1,5 @@
 .vs/
 CmakeSettings.json
 Debug/
+.vscode/
+build/

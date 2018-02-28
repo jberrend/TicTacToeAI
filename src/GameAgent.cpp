@@ -27,7 +27,7 @@ void game_agent::run() {
 #endif
 
 #if __linux__
-		system("clr");
+		system("clear");
 #endif
 
 		game->print_board();
